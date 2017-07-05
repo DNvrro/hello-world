@@ -1,2 +1,4 @@
 # hello-world
-Just a test
+1st repo
+
+I'm Daniel. I'm an EE who enjoys programming in Python.
